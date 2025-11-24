@@ -28,6 +28,14 @@ Documentos detallados sobre la construcción del sistema:
 ### ✅ Calidad y Testing
 - **[🧪 Plan de Pruebas](./Plan%20de%20Pruebas.md)** *Estrategia de QA: cobertura de **13 historias de usuario**, validación funcional de épicas (Comentarios, Reseñas, Favoritos) y criterios de aceptación*.
 
+### 🔄 Actualización de Entregables (2 y 3)
+Enlaces directos a la documentación del proyecto:
+
+- **[📋 Historias de Usuario](https://ucaedusv-my.sharepoint.com/:w:/g/personal/00060422_uca_edu_sv/IQDqEAt079KVTbqvfFN9otU3ARADRLr_0zbXwzuei0lAZRY?e=c7beBB)**
+  
+
+- **[🎨 Diseño de Historias de Usuario](https://ucaedusv-my.sharepoint.com/:w:/g/personal/00060422_uca_edu_sv/IQAxP359SKm3Q5wviPJenv9QAQOqqcTB-tmnFWUDH5KRmxE?e=wY13HO)**
+  
 ---
 
 ## 🛠️ Tecnologías Principales
